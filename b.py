@@ -47,10 +47,21 @@ def test():
 def end():
     print('Congratulations, have a nice day!')
 
-
+    
+#First step -- Greeting log
 greet('Marc', '2020')
+
+#Second step
 remind_name()
+
+#Third step
 guess_age()
+
+#Fourth step
 count()
+
+#Fifth step
 test()
+
+#Sixth step -- Ending log
 end()
